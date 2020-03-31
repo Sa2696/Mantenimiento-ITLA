@@ -1,0 +1,110 @@
+﻿body {
+}
+footer {
+    background-color: #fff;
+}
+
+    footer .hotels-wrapper {
+        background-color: #eaf2fc;
+        background-image: url(/res/b1356/eui/img/stars_desktop.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+ footer .hotels {
+    background: transparent url(/img/stars_mobile.png) no-repeat;
+    background-position: 1%;
+}
+    footer .hotels {
+        max-width: 700px;
+        margin: 0 auto;
+        padding: 38px 15px 38px 50px;
+        min-height: 180px;
+    }
+    footer .hotels-text {
+        margin-left: 190px;
+        text-align: left;
+    }
+footer .hotels-text .title-text {
+            font-size: 27px;
+            line-height: 35px;
+            font-weight: 400;
+            margin: 0 auto 12px;
+            color: #002172;
+        }
+footer .hotels-text .hotels-link {
+            color: #fff;
+            background-color: #0775e2;
+            -moz-border-radius: 3px;
+            border-radius: 3px;
+            min-height: 50px;
+            padding: 15px 30px;
+            font-size: 16px;
+            text-align: center;
+            display: inline-block;
+            text-decoration: none;
+            font-weight: 700;
+        }
+    footer .hotels-icon {
+        float: left;
+        position:  relative;
+        background: url(/img/programacion.jpg) no-repeat;
+        background-position: 0 0;
+        width: 100px;
+        height: 99px;
+    }
+    footer .newsletter-wrapper {
+        background: #00164d;
+        position: relative;
+    }
+.iconos {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.FOOTER {
+    margin-top:30px;
+    height: 120px;
+    width: 100%;
+    background-color: rgb(30, 28, 28);
+    background: #252525;
+}
+    footer .newsletter {
+        max-width: 710px;
+        margin: 0 auto;
+        padding: 40px 15px;
+        text-align: center;
+    }
+ .h3 {
+    font-size: 27px;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 11px;
+}
+footer .newsletter .title {
+    color: #fff;
+}
+footer .newsletter .sub-title {
+    color: #969dac;
+    margin-bottom: 30px;
+}
+footer .newsletter .btn {
+    min-width: 150px;
+    font-weight: 400;
+    vertical-align: top;
+    height: 55px;
+    margin-left: 6px;
+    padding: 0 20px;
+}
+.btn-function {
+    color: #fff;
+    background-color: #0775e2;
+}
+footer .newsletter input[type=text] {
+    max-width: 500px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 55px;
+    font-size: 16px;
+}
